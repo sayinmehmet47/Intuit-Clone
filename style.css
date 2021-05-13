@@ -1,0 +1,153 @@
+body {
+    height: 100vh;
+    background-color:
+        #eceef1;
+    color: #505050;
+}
+
+
+
+.main-header {
+    border-color: #505050;
+    color: #505050;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right
+}
+
+.link {
+
+    border-color: #0077c5;
+    color: #0077c5;
+    display: inline;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right
+}
+
+.inu {
+
+    background-position:
+        0px 0px;
+    border-color:
+        #0000ee;
+    color:
+        #0000ee;
+    font-family:
+        AvenirNext;
+    font-size:
+        12px;
+
+    margin:
+        0px 393.5px;
+    text-align:
+        center;
+}
+
+.icons li {
+    list-style-type: none;
+    font-size: 12px;
+    text-align: center;
+    margin: 7px;
+    display: flex;
+    align-items: center;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 340px;
+    padding: 31px;
+    margin-left: 40px;
+    background-color: white;
+
+}
+
+.create {
+
+    border-color:
+        #393a3d;
+    color:
+        #393a3d;
+    font-size:
+        24px;
+    line-height:
+        26.4px;
+}
+
+.sign-up-header {
+    border-color:
+        #393a3d;
+    color:
+        #393a3d;
+    font-size:
+        12px;
+    font-weight:
+        300;
+    line-height:
+        16.8px;
+    text-align:
+        center;
+}
+
+label {
+    margin-top: 25px;
+    font-size:
+        14px;
+    line-height:
+        25px
+}
+
+
+#ius-captcha-tos-container-display {
+    background-color:
+        #eceef1;
+    font-size:
+        14px;
+    line-height:
+        21px;
+    margin:
+        32px -32px -30px;
+    padding:
+        16px;
+    text-align:
+        center
+}
+
+.hosted {
+    list-style-type: none;
+    border-color:
+        #505050;
+    color:
+        #505050;
+    font-size:
+        15px;
+    line-height:
+        18px;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 20px;
+
+}
+
+.hosted li {
+    padding: 15px;
+}
+
+#ius-sign-up-copyright {
+    border-color:
+        #505050;
+    color:
+        #505050;
+    font-size:
+        12px;
+    line-height:
+        18px;
+    text-align:
+        center;
+    padding: 20px;
+}
